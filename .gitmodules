@@ -3,4 +3,4 @@
 	url = https://github.com/raisingpixels/vintage-web-hugo-theme.git
 [submodule "themes/hugo-texify3"]
 	path = themes/hugo-texify3
-	url = https://github.com/michaelneuper/hugo-texify3.git
+	url = https://github.com/penne-not-pasta/hugo-texify3.git
