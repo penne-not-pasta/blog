@@ -3,7 +3,7 @@ date = '2025-10-13'
 draft = false
 title = 'First Post'
 author = 'Penelope (Penne)'
-tag = ['2025', 'Updates']
+tags = ['2025', 'Updates']
 +++
 
 # Welcome Home!

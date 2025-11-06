@@ -3,7 +3,7 @@ date = '2025-10-19'
 draft = false
 title = 'My First Stupid Linked List'
 author = 'Penelope (Penne)'
-tag = ['2025', 'Coding', 'C/C++']
+tags = ['2025', 'Coding', 'C/C++']
 +++
 
 # My First Stupid Linked List

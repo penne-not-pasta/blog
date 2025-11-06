@@ -2,18 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Penelopes Blog</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Penelopes Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 08:13:33 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life Update #1</title>
+      <link>http://localhost:1313/posts/life-update-1/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/life-update-1/</guid>
+      <description>&lt;h1 id=&#34;life-update-1&#34;&gt;Life Update #1&lt;/h1&gt;
+&lt;p&gt;Happy Halloween everybody!! I hope it was great for you guys and gals. I&amp;rsquo;m excited to share some updates with y&amp;rsquo;all.&lt;/p&gt;
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;New Blog Theme&lt;/strong&gt;: I&amp;rsquo;ve decided to switch to a new blog theme that I think will make the site look more modern and professional. It&amp;rsquo;s still a work in progress, but I&amp;rsquo;m excited to see how it turns out! &lt;a href=&#34;https://github.com/michaelneuper/hugo-texify3&#34;&gt;Blog Theme Source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;I Set Up My YT Channel&lt;/strong&gt;: I&amp;rsquo;ve set up my YouTube channel and started uploading videos. Check it out! &lt;a href=&#34;https://www.youtube.com/@penne_not_pasta&#34;&gt;YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-discord-server-was-nuked&#34;&gt;My Discord Server was NUKED.&lt;/h2&gt;
+&lt;p&gt;I have since set my server up again, but 4 months ago My discord was compromised, by multiple users, they were able to access my whole account, while i had access. They only managed to nuke my main server however since it was on my account i do not know who did it, i was on a plane at the time my server was nuked. Again I have set it up again. &lt;strong&gt;IT IS PRIMARILY CODING FOCUSED&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/ZR65Vgzqhp&#34;&gt;Discord Server Invite&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;thanks-for-reading-everyone&#34;&gt;Thanks for reading everyone!&lt;/h2&gt;
+&lt;p&gt;Thank you for taking the time to read my blog. I appreciate your support and feedback. If you have any questions or comments, feel free to reach out to me on my social media accounts or leave a comment below.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub Sizing Repo</title>
+      <link>http://localhost:1313/posts/github-sizing-repo/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/github-sizing-repo/</guid>
+      <description>&lt;h1 id=&#34;the-repo-that-detrimines-the-size-of-others&#34;&gt;The Repo That Detrimines the size of others!&lt;/h1&gt;
+&lt;p&gt;I was downloading the &lt;a href=&#34;https://github.com/torvalds/linux&#34;&gt;&lt;em&gt;Linux Kernel&lt;/em&gt;&lt;/a&gt; when I realized that I didn&amp;rsquo;t have a way to find how big it was before downloading, so I made the github repo size thingy.&lt;/p&gt;
+&lt;h2 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/Github-Sizes&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://penne-not-pasta.github.io/Github-Sizes/&#34;&gt;Link To Site&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Stupid Linked List</title>
+      <link>http://localhost:1313/posts/my-stupid-linked-list/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-stupid-linked-list/</guid>
+      <description>&lt;h1 id=&#34;my-first-stupid-linked-list&#34;&gt;My First Stupid Linked List&lt;/h1&gt;
+&lt;p&gt;Hi! I made a linked list. I have learned some things and I felt like sharing with the class that is my blog~&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I Learned&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;So I learned some C++ and how to make a Linked List (&lt;em&gt;obviously lmao&lt;/em&gt;), but what else could I have learned? I learned the difference between a &amp;ldquo;Heap&amp;rdquo; and a &amp;ldquo;Stack&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-stack&#34;&gt;What Is A Stack?&lt;/h3&gt;
+&lt;p&gt;A &amp;ldquo;Stack&amp;rdquo; is a region of memory that stores&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local Variables&lt;/li&gt;
+&lt;li&gt;Function Paramaters&lt;/li&gt;
+&lt;li&gt;Return Addresses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It operates in a LIFO order.&lt;/p&gt;
+&lt;p&gt;LIFO = Last In, First Out.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-heap&#34;&gt;What Is A Heap?&lt;/h3&gt;
+&lt;p&gt;A &amp;ldquo;Heap&amp;rdquo; is a Larger Region of memory that is used for &lt;em&gt;Dynamic Allocation&lt;/em&gt;. That means I decide to allocate and free memory basically.&lt;/p&gt;
+&lt;h2 id=&#34;related-links&#34;&gt;Related Links.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/roads-linked-list&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/m7rrk65GiXY&#34;&gt;Tutorial I Used&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;NOTE If links show up in plain text and not as a link they are either broken or not available!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Links</title>
+      <link>http://localhost:1313/posts/my-links/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-links/</guid>
+      <description>&lt;h1 id=&#34;my-links&#34;&gt;My Links.&lt;/h1&gt;
+&lt;p&gt;All of my links in one big masterlist!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt;&lt;/em&gt; If links show up in plain text and not as a link they are either broken or not available!&lt;/p&gt;
+&lt;h2 id=&#34;links-a-z&#34;&gt;Links. (A-Z)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AO3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://penne.blog/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/ZR65Vgzqhp&#34;&gt;Discord Server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Duolingo&lt;/li&gt;
+&lt;li&gt;DeviantArt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/nyanccat/&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Goodreads&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/azte.a&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ko-fi.com/R6R1V5XR6&#34;&gt;Ko-Fi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mastodon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pinterest.com/stupidpenne/&#34;&gt;Pinterest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/user/penne_not_pasta&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ribblr&lt;/li&gt;
+&lt;li&gt;SpaceHey!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/user/3154zryvfprva4adogotla324bzy&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/show/6VyG5SBv9bVEYROB9jphwW?si=4SIK2beIS5qYqTUshKnIVA&#34;&gt;Spotify For Podcasters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/penne_not_pasta&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tumblr&lt;/li&gt;
+&lt;li&gt;TikTok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/@penne_not_pasta&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>First Post</title>
-      <link>//localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 13 Oct 2025 08:13:33 -0700</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-home&#34;&gt;Welcome Home!&lt;/h1&gt;&#xA;&lt;p&gt;Hi!! Im so glad to have you here ❤&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me.&lt;/h2&gt;&#xA;&lt;p&gt;Hi there, If you don&amp;rsquo;t know me, I am Penelope, aka Penne_Not_Pasta!! I&amp;rsquo;m now blogging. Welcome to the shitshow that is my blog xD&lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-home&#34;&gt;Welcome Home!&lt;/h1&gt;
+&lt;p&gt;Hi!! Im so glad to have you here ❤&lt;/p&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About Me.&lt;/h2&gt;
+&lt;p&gt;Hi there, If you don&amp;rsquo;t know me, I am Penelope, aka Penne_Not_Pasta!! I&amp;rsquo;m now blogging. Welcome to the shitshow that is my blog. I like to write so let&amp;rsquo;s see how this goes hahah.&lt;/p&gt;
+&lt;p&gt;so basically im Penne, I&amp;rsquo;m 17 &amp;amp; i use she/her pronouns. you can find me on any social platform (instagram, tiktok, spotify podcasts, Ko-Fi, discord, &amp;amp; even youtube!) I will soon have a podcast so stay tuned hehehe.&lt;/p&gt;
+&lt;p&gt;I am also starting the process to become catholic, it is called OCIA (formerly RCIA).&lt;/p&gt;
+&lt;p&gt;I love you guys!!&lt;/p&gt;
+&lt;p&gt;Peace~&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

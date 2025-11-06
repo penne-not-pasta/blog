@@ -1,0 +1,4 @@
+*.lock
+*.log
+/public
+/node_modules

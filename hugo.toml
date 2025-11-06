@@ -1,53 +1,47 @@
 baseURL = "https://penne.blog"
 languageCode = "en-us"
 title = "Penelopes Blog"
-theme = "vintage-web-hugo-theme"
+theme = "hugo-texify3"
 
-# Pagination
-[pagination]
-  pagerSize = 10
-  path = "page"
-
-# Taxonomies
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "post"
+name = "Posts"
+url = "/posts/"
+weight = 2
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
-
-# Menu
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 2
-
-# Theme Parameters
+tags = "tags"
 [params]
-  # Site Description
-  description = "Penelopes silly little blog that nobody reads lmaooo"
-  author = "Penne Not Pasta (Penelope)"
-
-  # Content Display
-  show_featured_sections = true
-  show_stats = true
-  show_retro_elements = true
-  show_sharing = true
-
-  # Footer Options
-  show_retro_footer = true
-  show_build_info = true
-
-  # Sidebar Options
-  show_sidebar_stats = true
-  show_retro_sidebar = true
-  sidebar_content = "Penelopes silly little blog that nobody reads lmaooo"
-
-  # Social Links
-  [params.social]
-    twitter = "penne_not_pasta"
-    github = "kenny914"
-    instagram = "azte.a"
+title="Penne Not Pasta's Blog"
+description = "my silly little blog :3"
+images = ['static/images/favicon.ico']
+footnote = """
+Follow me on <a class=link href=https://github.com/penne-not-pasta target=_blank rel=noopener>GitHub</a>,
+<a class=link href=/index.xml>RSS</a>
+"""
+keywords = ["hugo", "blog", "crochet", "crocheting", "art", "arts", "crafts", "crafting", "tech", "programming", "software", "development", "web", "design"]
+customCSS = []
+customJS = []
+dateFormat = "January 2, 2006"
+emphasisWithDots = true
+since = "2025"
+toc = true
+showWordCount = true
+showReadingTime = true
+rootFontSize = "120%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = false
+[params.sharingbuttons]
+facebook = true
+twitter = true
+email = true
+linkedin = false
+reddit = true
+whatsapp = true
+hackernews = false
+telegram = true
