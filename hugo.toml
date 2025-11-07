@@ -36,6 +36,8 @@ rootFontSize = "120%"
 math = true
 enableDuckDuckGoSearchBox = true
 numberedSubtitles = false
+[params.buymeacoffee]
+code = ""
 [params.sharingbuttons]
 facebook = true
 twitter = true
