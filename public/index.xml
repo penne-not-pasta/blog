@@ -8,6 +8,63 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Making My Own OS</title>
+      <link>http://localhost:1313/posts/making-my-own-os/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/making-my-own-os/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World.&lt;/h1&gt;
+&lt;p&gt;Hey guys, Penne here! Today I&amp;rsquo;m going through the basics of making my own DOS! Without further ado, lets begin.&lt;/p&gt;
+&lt;p&gt;I do want to not if you are not me and you happen to be reading this this more like notes for me lmao.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;post 1 of many posts&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements.&lt;/h2&gt;
+&lt;p&gt;To make a DOS based OS you will need quite a bit of stuff. Let me make that list below.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A Computer, To code on. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+&lt;ul&gt;
+&lt;li&gt;preferably running Linux, windows WSL/macOS is okay too, however this project is made from Debian 13 Trixie.&lt;/li&gt;
+&lt;li&gt;optionally another computer to use as the test machine. (&lt;strong&gt;optional.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;USB stick (&lt;strong&gt;optional.&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A virtual machine, if you dont want to use actual hardware. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+&lt;ul&gt;
+&lt;li&gt;The VM needs at minimum 512 MB of ram, &amp;amp; input/output abilities. I am using QEMU but you do not need that one, use what you are comfortable with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Knowledge in C (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Knowledge in Assembly + NASM (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;GCC knowlege (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;a terminal. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+&lt;ul&gt;
+&lt;li&gt;I use Konsole, however you can use any terminal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Basic terminal knowledge. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Git(Hub) knowledge (&lt;strong&gt;optional.&lt;/strong&gt;)
+&lt;ul&gt;
+&lt;li&gt;Only if you want to publish to github.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;notes-for-author&#34;&gt;Notes for author.&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;commands-masterlist&#34;&gt;Commands Masterlist.&lt;/h3&gt;
+&lt;p&gt;Some basic commands you will need to run: (updated when i feel like updating it lol.)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# BASH&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~$ cd Documents
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents$ git clone https://github.com/penne-not-pasta/penny-dos.git &lt;span style=&#34;color:#75715e&#34;&gt;# clones to current working directory.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents$ cd penny-dos
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# commands to run in Penny-DOS directory.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ make all &lt;span style=&#34;color:#75715e&#34;&gt;# builds the project.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ make clean &lt;span style=&#34;color:#75715e&#34;&gt;# cleans up the build.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ qemu-system-x86_64 -hda ./src/bin/boot.bin &lt;span style=&#34;color:#75715e&#34;&gt;# runs in QEMU.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Days 1-3 Out of 100.</title>
       <link>http://localhost:1313/posts/days-1-3/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
