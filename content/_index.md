@@ -32,9 +32,11 @@ Welcome to my blog, where I share my journey as a creative collective that blend
 Stay updated with new tutorials, launches, retro finds & more!!  
 follow me on socials:
 
-- 🌐 [Website](https://penne.blog)
-- 🐦 [Twitter](https://twitter.com/penne_not_pasta)
+- 🌐 [Website](https://web.penne.blog)
+- 🐦 [Twitter](https://x.com/penne_not_pasta)
 - 📸 [Instagram](https://instagram.com/azte.a)
-- 💬 [Discord Community](https://discord.gg/ZR65Vgzqhp)
+- 💬 Discord Community (*soon*)
+- 👑 [YouTube](https://www.youtube.com/@PenneNotPasta)
+- 🌐 [CAMEOS](https://ko-fi.com/c/019298b76a)
 
 ---
