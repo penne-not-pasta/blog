@@ -8,7 +8,7 @@ tags = ['2025', 'Updates']
 
 # ITS PRONOUNCED PENNY NOT PASTA!!!!!
 
-Thank you ❤️
+Thank you :heart:
 
 
 ## also merry christmas ill post a haul on [YouTube](https://www.youtube.com/@PenneNotPasta)
