@@ -37,6 +37,6 @@ follow me on socials:
 - 📸 [Instagram](https://instagram.com/azte.a)
 - 💬 Discord Community (*soon*)
 - 👑 [YouTube](https://www.youtube.com/@PenneNotPasta)
-- 🌐 [CAMEOS](https://ko-fi.com/c/019298b76a)
+- 🌐 [Ko-Fi](https://ko-fi.com/laceloopscrochet)
 
 ---
