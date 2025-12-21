@@ -1,7 +1,7 @@
 +++
 date = '2025-12-21'
 draft = false
-title = 'IT'S PRONOUNCED PENNY NOT PASTA.'
+title = 'ITS PRONOUNCED PENNY NOT PASTA.'
 author = 'Penelope (Penne)'
 tags = ['2025', 'Updates']
 +++
