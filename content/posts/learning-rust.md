@@ -13,3 +13,4 @@ Im learning rust now! THats pretty much the update.
 ## Related Links:
 
 - [Rust Lang book](https://doc.rust-lang.org/book/)
+- [Roadmap](https://roadmap.sh/rust)
