@@ -38,7 +38,7 @@ follow me on socials:
 - 🌐 [Ko-Fi](https://ko-fi.com/laceloopscrochet)
 - 🌐 [Website](https://web.penne.blog)
 - 🌐 [GitHub](https://github.com)
-- 🌐 Tumblr (*incactive*)
+- 🌐 Tumblr (*inactive*)
 - 🌐 Discord Server (***soon...***)
 
 ---
