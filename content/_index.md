@@ -23,7 +23,7 @@ menu:
 Hiya! I'm Penny!
 
 
-Welcome to my blog, where I share my journey as a creative collective that blends code, color, and craftsmanship. From web dev, to crochet and nostalgia, I explore various aspects of creativity and life.
+Welcome to my blog, where I share my journey as a creative collective that blends code, color, and craftsmanship. From web dev, to crochet and nostalgia, I explore various aspects of creativity and life, and what makes me, me! 
 
 ---
 
@@ -32,11 +32,13 @@ Welcome to my blog, where I share my journey as a creative collective that blend
 Stay updated with new tutorials, launches, retro finds & more!!  
 follow me on socials:
 
-- 🌐 [Website](https://web.penne.blog)
 - 🐦 [Twitter](https://x.com/penne_not_pasta)
 - 📸 [Instagram](https://instagram.com/azte.a)
-- 💬 Discord Community (*soon*)
 - 👑 [YouTube](https://www.youtube.com/@PenneNotPasta)
 - 🌐 [Ko-Fi](https://ko-fi.com/laceloopscrochet)
+- 🌐 [Website](https://web.penne.blog)
+- 🌐 [GitHub](https://github.com)
+- 🌐 Tumblr (*incactive*)
+- 🌐 Discord Server (***soon...***)
 
 ---
