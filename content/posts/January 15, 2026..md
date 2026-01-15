@@ -1,0 +1,21 @@
++++ date = '2026-1-15' draft = false title = 'Dear 2026...' author = 'Penelope (Penne)' tags = ['2026', 'Updates'] +++
+# Dear 2026, 
+
+Hi, its penny here. I'm turning 18 this year so I think it's about time I set my life goals. For 2026-2027 *at least.*
+
+## Life Goals (2026)
+
+1. Turn 18.
+2. Get that Tattoo (*image below*)![[Tattoo.jpg]]
+3. Make 10 sales on [laceloopscrochet.com](https://laceloopscrochet.com)
+4. Finish 25 crochet projects
+5. Finish 5 Knit projects
+
+## Relevant Links
+
+1. [Californication MV](https://youtu.be/YlUKcNNmywk)
+2. [laceloopscrochet.com](https://laceloopscrochet.com)
+
+# The End...
+
+Until next time.
