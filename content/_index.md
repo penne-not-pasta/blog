@@ -5,7 +5,6 @@ date: 2025-11-06
 draft: false
 type: "homepage"
 description: "A creative collective that blends code, color, and craftsmanship — from full-stack web design to crochet and nostalgia."
-heroImage: "/static/images/WALLPAPER-1.jpeg"
 keywords:
   - creative
   - web development
@@ -20,10 +19,11 @@ menu:
 
 # 🌈 Penne Not Pasta~!
 
-Hiya! I'm Penny!
+Hiya! I'm Penny,
 
+Welcome to my blog~ 
 
-Welcome to my blog, where I share my journey as a creative collective that blends code, color, and craftsmanship. From web dev, to crochet and nostalgia, I explore various aspects of creativity and life, and what makes me, me! 
+I'm passionate about coding, crochet, knitting, and language learning. I also enjoy filming and creating YouTube videos. Here you'll find tutorials, projects, and thoughts on all the things I love exploring.
 
 ---
 
@@ -32,13 +32,10 @@ Welcome to my blog, where I share my journey as a creative collective that blend
 Stay updated with new tutorials, launches, retro finds & more!!  
 follow me on socials:
 
-- 🐦 [Twitter](https://x.com/penne_not_pasta)
+- 🐦 [Twitter](https://x.com/pennenotpasta)
 - 📸 [Instagram](https://instagram.com/azte.a)
 - 👑 [YouTube](https://www.youtube.com/@PenneNotPasta)
 - 🌐 [Ko-Fi](https://ko-fi.com/laceloopscrochet)
-- 🌐 [Website](https://web.penne.blog)
-- 🌐 [GitHub](https://github.com)
-- 🌐 Tumblr (*inactive*)
-- 🌐 Discord Server (***soon...***)
+- 🌐 [GitHub](https://github.com/penne-not-pasta)
 
 ---

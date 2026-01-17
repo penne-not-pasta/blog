@@ -2,3 +2,4 @@
 *.log
 /public
 /node_modules
+/content/posts/template.md
