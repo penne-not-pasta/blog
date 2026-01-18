@@ -8,270 +8,121 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Making My Own OS</title>
-      <link>http://localhost:1313/posts/making-my-own-os/</link>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <title>The AI TakeOver. My position on AI.</title>
+      <link>http://localhost:1313/posts/the_ai_takeover/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/making-my-own-os/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World.&lt;/h1&gt;
-&lt;p&gt;Hey guys, Penne here! Today I&amp;rsquo;m going through the basics of making my own DOS! Without further ado, lets begin.&lt;/p&gt;
-&lt;p&gt;I do want to not if you are not me and you happen to be reading this this more like notes for me lmao.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;post 1 of many posts&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements.&lt;/h2&gt;
-&lt;p&gt;To make a DOS based OS you will need quite a bit of stuff. Let me make that list below.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;A Computer, To code on. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+      <guid>http://localhost:1313/posts/the_ai_takeover/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/what_is_artificial_intelligence.png&#34; alt=&#34;IMAGE 1&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-ai-takeover-my-position-on-ai&#34;&gt;The AI TakeOver. My position on AI.&lt;/h1&gt;
+&lt;p&gt;What goes the general populus think of when you say &amp;ldquo;AI is taking over!!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;They (or you), may think of generative AI taking everyones jobs, They (or you), may think of AI being a helpful tool, They (or you),, may think that AI should(&amp;rsquo;nt) be used &lt;em&gt;No Matter What&lt;/em&gt;. Today I&amp;rsquo;m gonna explain what AI is, how it&amp;rsquo;s used today, the history and story of AI, and also my position and stance on AI.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s Go&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-ai&#34;&gt;What is AI?&lt;/h2&gt;
+&lt;p&gt;AI, or Artificial inteligence In simple words, is about making computers smart enough to do things that usually require human intelligence, like learning from experience, solving problems, understanding language, recognizing patterns, and making decisions, often by analyzing huge amounts of data to find patterns instead of being programmed for &lt;em&gt;every single step&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;a-brief-history-lesson&#34;&gt;A Brief History Lesson.&lt;/h2&gt;
+&lt;p&gt;AI a.k.a Artifical Inteligence goes back to the 1720&amp;rsquo;s belive it or not! Let&amp;rsquo;s assemble a timeline then go through it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ibm.com/think/topics/history-of-artificial-intelligence&#34;&gt;Source of timeline.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;pre-20th-century&#34;&gt;Pre 20&amp;rsquo;th Century:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;preferably running Linux, windows WSL/macOS is okay too, however this project is made from Debian 13 Trixie.&lt;/li&gt;
-&lt;li&gt;optionally another computer to use as the test machine. (&lt;strong&gt;optional.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;USB stick (&lt;strong&gt;optional.&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1726&lt;/strong&gt;: Jonathan Swift&amp;rsquo;s fantastic novel “Gulliver&amp;rsquo;s Travels” introduces the idea of The Engine, a large mechanical contraption used to assist scholars in generating new ideas, sentences and books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;19001950&#34;&gt;1900–1950:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1914&lt;/strong&gt;: Spanish engineer Leonardo Torres y Quevedo demonstrates the first chess-playing machine, El Ajedrecista at the Exposition Universelle in Paris. It used electromagnets and was fully automated.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1921&lt;/strong&gt;: A play named &amp;ldquo;Rossum&amp;rsquo;s Universal Robots&amp;rdquo; (R.U.R) opens in London. The play by Karel Čapek is the first time the word &amp;ldquo;robot&amp;rdquo; is used in English.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1939&lt;/strong&gt;: John Vincent Atanasoff, a professor of physics and mathematics at Iowa State College, and his graduate student Clifford Berry, create the Atanasoff-Berry Computer (ABC) with a grant of U$D 650 at Iowa State University.
+&lt;ul&gt;
+&lt;li&gt;While the ABC is never fully operational or widely used, it introduced several key concepts that would become foundational in the development of modern computing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;A virtual machine, if you dont want to use actual hardware. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+&lt;li&gt;&lt;strong&gt;1943&lt;/strong&gt;: Warren S. McCulloch and Walter Pitts publish &amp;ldquo;A Logical Calculus of the Ideas Immanent in Nervous Activity&amp;rdquo; in the Bulletin of Mathematical Biophysics; It is one of the seminal works in the history of both neuroscience and AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1950&lt;/strong&gt;: British mathematician Alan Turing&amp;rsquo;s landmark paper &amp;ldquo;Computing Machinery and Intelligence&amp;rdquo; is published in Mind. This paper is a foundational text in AI and addresses the question, &amp;ldquo;Can machines think?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;1950-1980&#34;&gt;1950-1980&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;The VM needs at minimum 512 MB of ram, &amp;amp; input/output abilities. I am using QEMU but you do not need that one, use what you are comfortable with.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1951&lt;/strong&gt;: Marvin Minsky and Dean Edmunds build the first artificial neural network. The Stochastic Neural Analog Reinforcement Calculator (SNARC) is an early attempt to model learning processes in the human brain, specifically through &lt;a href=&#34;https://www.ibm.com/topics/reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1952&lt;/strong&gt;: Allen Newell, a mathematician and computer scientist, and Herbert A. Simon, a political scientist, develop influential programs such as the Logic Theorist and General Problem Solver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1955&lt;/strong&gt;: The term &amp;ldquo;artificial intelligence&amp;rdquo; is first coined in a workshop proposal titled &amp;ldquo;A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence,&amp;rdquo; submitted by John McCarthy of Dartmouth College, Marvin Minsky of Harvard University, Nathaniel Rochester from IBM and Claude Shannon from Bell Telephone Laboratories.
+&lt;ul&gt;
+&lt;li&gt;The workshop, which took place a year later, in July and August 1956, is generally considered the official birthdate of the burgeoning field of AI.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Knowledge in C (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;Knowledge in Assembly + NASM (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;GCC knowlege (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;a terminal. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)
+&lt;li&gt;&lt;strong&gt;1957&lt;/strong&gt;: Frank Rosenblatt, a psychologist and computer scientist, develops the Perceptron, an early artificial neural network that enables pattern recognition based on a two-layer computer learning network.
 &lt;ul&gt;
-&lt;li&gt;I use Konsole, however you can use any terminal.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/topics/machine-learning-algorithms&#34;&gt;algorithims.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/topics/machine-learning&#34;&gt;machine learning.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Basic terminal knowledge. (&lt;strong&gt;REQUIRED.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;Git(Hub) knowledge (&lt;strong&gt;optional.&lt;/strong&gt;)
-&lt;ul&gt;
-&lt;li&gt;Only if you want to publish to github.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;notes-for-author&#34;&gt;Notes for author.&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;commands-masterlist&#34;&gt;Commands Masterlist.&lt;/h3&gt;
-&lt;p&gt;Some basic commands you will need to run: (updated when i feel like updating it lol.)&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# BASH&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~$ cd Documents
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents$ git clone https://github.com/penne-not-pasta/penny-dos.git &lt;span style=&#34;color:#75715e&#34;&gt;# clones to current working directory.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents$ cd penny-dos
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# commands to run in Penny-DOS directory.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ make all &lt;span style=&#34;color:#75715e&#34;&gt;# builds the project.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ make clean &lt;span style=&#34;color:#75715e&#34;&gt;# cleans up the build.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/Documents/penny-dos$ qemu-system-x86_64 -hda ./src/bin/boot.bin &lt;span style=&#34;color:#75715e&#34;&gt;# runs in QEMU.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Days 1-3 Out of 100.</title>
-      <link>http://localhost:1313/posts/days-1-3/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/days-1-3/</guid>
-      <description>&lt;h1 id=&#34;day-1&#34;&gt;Day #1&lt;/h1&gt;
-&lt;p&gt;Day 1, I did nothing at all. I only opened up obsidian (my note taking app) and just stared at it for 30-ish minutes before closing it and going to my bed to crochet and watch youtube.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;day-2-3&#34;&gt;Day 2-3&lt;/h2&gt;
-&lt;p&gt;I did the same thing basically but I need to plan this out more if I actually want to learn Portuguese. So, I need a new plan.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;the-old--new-plan&#34;&gt;The Old &amp;amp; New Plan&lt;/h2&gt;
-&lt;p&gt;this section is to map out my new &amp;amp; old plans to make my learning more efficent.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;the-old-plan&#34;&gt;The old plan:&lt;/h3&gt;
-&lt;p&gt;The learning plan I didn&amp;rsquo;t follow.&lt;/p&gt;
+&lt;h1 id=&#34;sources-related-links--my-socials&#34;&gt;Sources, Related Links, &amp;amp; My socials.&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Work on speaking &amp;amp; reading first.&lt;/li&gt;
-&lt;li&gt;Study for no more than 2.5h a day.&lt;/li&gt;
-&lt;li&gt;Take Breaks; to eat/drink whatnot.&lt;/li&gt;
-&lt;li&gt;Practice Listening 3rd, and Writing/Typing 4th.&lt;/li&gt;
-&lt;li&gt;Take notes as needed, dont be scared to ask questions (or for help.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;the-new-plan&#34;&gt;The NEW plan:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Join a community. (discord linked in &lt;a href=&#34;#links&#34;&gt;Relevant Links&lt;/a&gt; section)&lt;/li&gt;
-&lt;li&gt;Be active in said community.&lt;/li&gt;
-&lt;li&gt;Look for a language exchange partner.&lt;/li&gt;
-&lt;li&gt;Take Notes &lt;strong&gt;ON PAPER&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Ask questions.&lt;/li&gt;
-&lt;li&gt;Use voice/video chats or livestreams to practice speaking.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;to be efficent i needed a new plan. So I made one and scrapped my old/original plans of this challenge. I plan to commit to the new/current plans and try my best to actually learn.&lt;/p&gt;
-&lt;p&gt;If I do not get to my original &lt;a href=&#34;https://penne.blog/posts/this-marks-my-100-day-journey/&#34;&gt;Goal&lt;/a&gt; I cannot be too disapointed because it was only for a fun challenge to motivate me.&lt;/p&gt;
-&lt;p&gt;Much love, &amp;amp; peace out my friends.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.com/invite/bg7K7fdgwp&#34;&gt;Discord Server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/languagelearning/comments/10lszl2/how_do_language_exchange_partnership_actually_work/&#34;&gt;What Is A Language Exchange Partner, and how does it work?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Life Update #1</title>
-      <link>http://localhost:1313/posts/life-update-1/</link>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/life-update-1/</guid>
-      <description>&lt;h1 id=&#34;life-update-1&#34;&gt;Life Update #1&lt;/h1&gt;
-&lt;p&gt;Happy Halloween everybody!! I hope it was great for you guys and gals. I&amp;rsquo;m excited to share some updates with y&amp;rsquo;all.&lt;/p&gt;
-&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;New Blog Theme&lt;/strong&gt;: I&amp;rsquo;ve decided to switch to a new blog theme that I think will make the site look more modern and professional. It&amp;rsquo;s still a work in progress, but I&amp;rsquo;m excited to see how it turns out! &lt;a href=&#34;https://github.com/michaelneuper/hugo-texify3&#34;&gt;Blog Theme Source&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;I Set Up My YT Channel&lt;/strong&gt;: I&amp;rsquo;ve set up my YouTube channel and started uploading videos. Check it out! &lt;a href=&#34;https://www.youtube.com/@penne_not_pasta&#34;&gt;YouTube Channel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;my-discord-server-was-nuked&#34;&gt;My Discord Server was NUKED.&lt;/h2&gt;
-&lt;p&gt;I have since set my server up again, but 4 months ago My discord was compromised, by multiple users, they were able to access my whole account, while i had access. They only managed to nuke my main server however since it was on my account i do not know who did it, i was on a plane at the time my server was nuked. Again I have set it up again. &lt;strong&gt;IT IS PRIMARILY CODING FOCUSED&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://discord.gg/ZR65Vgzqhp&#34;&gt;Discord Server Invite&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;thanks-for-reading-everyone&#34;&gt;Thanks for reading everyone!&lt;/h2&gt;
-&lt;p&gt;Thank you for taking the time to read my blog. I appreciate your support and feedback. If you have any questions or comments, feel free to reach out to me on my social media accounts or leave a comment below.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This Marks The Start of My 100 Day Journey</title>
-      <link>http://localhost:1313/posts/this-marks-my-100-day-journey/</link>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/this-marks-my-100-day-journey/</guid>
-      <description>&lt;h1 id=&#34;this-marks-the-start-of-my-100-day-journey&#34;&gt;This Marks The Start of My 100 Day Journey&lt;/h1&gt;
-&lt;p&gt;The rare 2 posts in 1 day for this blog. OK, So this will work by updating every 5 days starting on Thursday nov. 06, 2025, (&lt;em&gt;today&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;I am learning Brazillian Portuguese, and Mandarin Chinese, However i will be focusing on Portuguese this year since im less advanced in that language.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;day-1-thursday-nov-06-2025&#34;&gt;Day 1: Thursday nov. 06, 2025.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Make a new folder in my obsidian vault.&lt;/li&gt;
-&lt;li&gt;Write my &lt;a href=&#34;#goals&#34;&gt;Goals&lt;/a&gt; in the first page + the &lt;a href=&#34;#plan&#34;&gt;learning plan&lt;/a&gt; I plan want to follow over 100 days.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
-&lt;p&gt;The goals of this challenge are as follows.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In 100 days I should be able to call for help, order a coffee &amp;amp; food at a cafe, and have small talk, along with basic greetings. (&lt;em&gt;basic survival Portuguese&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;In 100 days I should be at a(n) A1 or A2 level.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;plan&#34;&gt;Plan&lt;/h2&gt;
-&lt;p&gt;The learning plan I will follow.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Work on speaking &amp;amp; reading first.&lt;/li&gt;
-&lt;li&gt;Study for no more than 2.5h a day.&lt;/li&gt;
-&lt;li&gt;Take Breaks; to eat/drink whatnot.&lt;/li&gt;
-&lt;li&gt;Practice Listening 3rd, and Writing/Typing 4th.&lt;/li&gt;
-&lt;li&gt;Take notes as needed, dont be scared to ask questions (or for help.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;My goal is to be able to survive for at least a week in brazil, will it be graceful? &lt;strong&gt;FUCK NO!!&lt;/strong&gt; but it is part of the learning process.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://x.com/penne_not_pasta&#34;&gt;Twitter (for daily updates)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ibm.com/think/topics/history-of-artificial-intelligence&#34;&gt;Source #1: History of AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 &lt;a href=&#34;https://x.com/pennenotpasta&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📸 &lt;a href=&#34;https://instagram.com/azte.a&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👑 &lt;a href=&#34;https://www.youtube.com/@PenneNotPasta&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://ko-fi.com/laceloopscrochet&#34;&gt;Ko-Fi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://github.com/penne-not-pasta&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>GitHub Sizing Repo</title>
-      <link>http://localhost:1313/posts/github-sizing-repo/</link>
-      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <title>New Year, New Me.</title>
+      <link>http://localhost:1313/posts/new_year/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/github-sizing-repo/</guid>
-      <description>&lt;h1 id=&#34;the-repo-that-detrimines-the-size-of-others&#34;&gt;The Repo That Detrimines the size of others!&lt;/h1&gt;
-&lt;p&gt;I was downloading the &lt;a href=&#34;https://github.com/torvalds/linux&#34;&gt;&lt;em&gt;Linux Kernel&lt;/em&gt;&lt;/a&gt; when I realized that I didn&amp;rsquo;t have a way to find how big it was before downloading, so I made the github repo size thingy.&lt;/p&gt;
-&lt;h2 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/Github-Sizes&#34;&gt;Github Repo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://penne-not-pasta.github.io/Github-Sizes/&#34;&gt;Link To Site&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My First Stupid Linked List</title>
-      <link>http://localhost:1313/posts/my-stupid-linked-list/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-stupid-linked-list/</guid>
-      <description>&lt;h1 id=&#34;my-first-stupid-linked-list&#34;&gt;My First Stupid Linked List&lt;/h1&gt;
-&lt;p&gt;Hi! I made a linked list. I have learned some things and I felt like sharing with the class that is my blog~&lt;/p&gt;
-&lt;h2 id=&#34;what-i-learned&#34;&gt;What I Learned&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;So I learned some C++ and how to make a Linked List (&lt;em&gt;obviously lmao&lt;/em&gt;), but what else could I have learned? I learned the difference between a &amp;ldquo;Heap&amp;rdquo; and a &amp;ldquo;Stack&amp;rdquo;.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-a-stack&#34;&gt;What Is A Stack?&lt;/h3&gt;
-&lt;p&gt;A &amp;ldquo;Stack&amp;rdquo; is a region of memory that stores&lt;/p&gt;
+      <guid>http://localhost:1313/posts/new_year/</guid>
+      <description>&lt;h1 id=&#34;new-year-new-me&#34;&gt;New Year, New Me.&lt;/h1&gt;
+&lt;p&gt;As you guys have noticed I&amp;rsquo;ve &lt;em&gt;&lt;strong&gt;completely&lt;/strong&gt;&lt;/em&gt; wiped my blog, but dont worry, if i want the posts back I have copies of them Locally.&lt;/p&gt;
+&lt;h2 id=&#34;new-years-resloutions&#34;&gt;New Years Resloutions.&lt;/h2&gt;
+&lt;p&gt;As the topic of &amp;ldquo;New Years Resolutions&amp;rdquo; came up at home/in my family, It got me wondering what I wanted to change about myself this year. Obviously, I want to be a better person to myself and others, but what does that &lt;em&gt;really&lt;/em&gt; mean? I quite simply dont know. (as of now of course.)&lt;/p&gt;
+&lt;p&gt;Heres a list of things I want to acomplish in 2026 / My new years resolutions.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Local Variables&lt;/li&gt;
-&lt;li&gt;Function Paramaters&lt;/li&gt;
-&lt;li&gt;Return Addresses&lt;/li&gt;
+&lt;li&gt;Be a better person, to myself and others.&lt;/li&gt;
+&lt;li&gt;Finish 25 crochet projects.&lt;/li&gt;
+&lt;li&gt;Finish 5 Knit Projects.&lt;/li&gt;
+&lt;li&gt;Make my music taste more diverse.&lt;/li&gt;
+&lt;li&gt;Do more school (as I am homeschooled.)&lt;/li&gt;
+&lt;li&gt;Save up 400 bucks. (1k if i really want to.)&lt;/li&gt;
+&lt;li&gt;Get that bike (+ accessories) for my birthday.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It operates in a LIFO order.&lt;/p&gt;
-&lt;p&gt;LIFO = Last In, First Out.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-a-heap&#34;&gt;What Is A Heap?&lt;/h3&gt;
-&lt;p&gt;A &amp;ldquo;Heap&amp;rdquo; is a Larger Region of memory that is used for &lt;em&gt;Dynamic Allocation&lt;/em&gt;. That means I decide to allocate and free memory basically.&lt;/p&gt;
-&lt;h2 id=&#34;related-links&#34;&gt;Related Links.&lt;/h2&gt;
+&lt;h2 id=&#34;more-yapping&#34;&gt;More Yapping.&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m just yapping now so if you want to ignore this you have my permission (not like you need it though lmfao.)&lt;/p&gt;
+&lt;p&gt;My next post will be on my stance about AI, so please LMK what I should talk about/cover in the comments of this post.&lt;/p&gt;
+&lt;h2 id=&#34;related-links--social-medias&#34;&gt;Related Links &amp;amp; Social Medias.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/roads-linked-list&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/m7rrk65GiXY&#34;&gt;Tutorial I Used&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;NOTE If links show up in plain text and not as a link they are either broken or not available!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Links</title>
-      <link>http://localhost:1313/posts/my-links/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-links/</guid>
-      <description>&lt;h1 id=&#34;my-links&#34;&gt;My Links.&lt;/h1&gt;
-&lt;p&gt;All of my links in one big masterlist!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt;&lt;/em&gt; If links show up in plain text and not as a link they are either broken or not available!&lt;/p&gt;
-&lt;h2 id=&#34;links-a-z&#34;&gt;Links. (A-Z)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AO3&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://penne.blog/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/ZR65Vgzqhp&#34;&gt;Discord Server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Duolingo&lt;/li&gt;
-&lt;li&gt;DeviantArt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/nyanccat/&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/penne-not-pasta/&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Goodreads&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://instagram.com/azte.a&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ko-fi.com/R6R1V5XR6&#34;&gt;Ko-Fi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mastodon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pinterest.com/stupidpenne/&#34;&gt;Pinterest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/user/penne_not_pasta&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ribblr&lt;/li&gt;
-&lt;li&gt;SpaceHey!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/user/3154zryvfprva4adogotla324bzy&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/show/6VyG5SBv9bVEYROB9jphwW?si=4SIK2beIS5qYqTUshKnIVA&#34;&gt;Spotify For Podcasters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://x.com/penne_not_pasta&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tumblr&lt;/li&gt;
-&lt;li&gt;TikTok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtube.com/@penne_not_pasta&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 &lt;a href=&#34;https://x.com/pennenotpasta&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📸 &lt;a href=&#34;https://instagram.com/azte.a&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👑 &lt;a href=&#34;https://www.youtube.com/@PenneNotPasta&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://ko-fi.com/laceloopscrochet&#34;&gt;Ko-Fi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://github.com/penne-not-pasta&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/posts/template/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-home&#34;&gt;Welcome Home!&lt;/h1&gt;
-&lt;p&gt;Hi!! Im so glad to have you here ❤&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About Me.&lt;/h2&gt;
-&lt;p&gt;Hi there, If you don&amp;rsquo;t know me, I am Penelope, aka Penne_Not_Pasta!! I&amp;rsquo;m now blogging. Welcome to the shitshow that is my blog. I like to write so let&amp;rsquo;s see how this goes hahah.&lt;/p&gt;
-&lt;p&gt;so basically im Penne, I&amp;rsquo;m 17 &amp;amp; i use she/her pronouns. you can find me on any social platform (instagram, tiktok, spotify podcasts, Ko-Fi, discord, &amp;amp; even youtube!) I will soon have a podcast so stay tuned hehehe.&lt;/p&gt;
-&lt;p&gt;I am also starting the process to become catholic, it is called OCIA (formerly RCIA).&lt;/p&gt;
-&lt;p&gt;I love you guys!!&lt;/p&gt;
-&lt;p&gt;Peace~&lt;/p&gt;
+      <guid>http://localhost:1313/posts/template/</guid>
+      <description>&lt;h1 id=&#34;lorem-ipsum&#34;&gt;Lorem Ipsum&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;h2 id=&#34;lorem-ipsum-1&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;h2 id=&#34;lorem-ipsum-2&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;h2 id=&#34;lorem-ipsum-3&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;h2 id=&#34;related-links--social-medias&#34;&gt;Related Links &amp;amp; Social Medias.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🐦 &lt;a href=&#34;https://x.com/pennenotpasta&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📸 &lt;a href=&#34;https://instagram.com/azte.a&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👑 &lt;a href=&#34;https://www.youtube.com/@PenneNotPasta&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://ko-fi.com/laceloopscrochet&#34;&gt;Ko-Fi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;a href=&#34;https://github.com/penne-not-pasta&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
